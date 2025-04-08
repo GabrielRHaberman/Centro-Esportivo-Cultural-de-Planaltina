@@ -1,0 +1,8 @@
+/site-cec/
+│
+├── index.html
+├── style.css
+├── scripts.js
+├── imagens/
+│   └── (coloque aqui as imagens do carrossel e seções)
+└── README.txt
